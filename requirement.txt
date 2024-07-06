@@ -1,0 +1,4 @@
+# Requirements for Tic-Tac-Toe Project
+# This project mainly uses the tkinter module, which is part of the standard Python library and also use Minimax algorithm for advance play.
+
+ numpy==1.21.0
